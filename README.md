@@ -1,4 +1,4 @@
-# Medical Question-Answering Service
+# Medical Question-Answering Bot
 
 A FastAPI-based service that uses Retrieval-Augmented Generation (RAG) to answer medical questions based on MSD Manual and CBIP data.
 

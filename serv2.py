@@ -25,7 +25,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Initialize FastAPI app
-app = FastAPI(title="Medical QA Service")
+app = FastAPI(title="Medical Q&A Bot")
 
 class Question(BaseModel):
     question: str
