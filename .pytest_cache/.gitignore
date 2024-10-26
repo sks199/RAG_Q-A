@@ -1,0 +1,4 @@
+# Created by pytest automatically.
+cache/vector_store.faiss/index.faiss
+ragsys1/Lib/site-packages/torch/lib/torch_cpu.dll
+ragsys1/Lib/site-packages/torch/lib/dnnl.lib
