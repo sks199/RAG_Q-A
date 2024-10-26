@@ -40,7 +40,7 @@ Send questions to the `/answer` endpoint:
 ```bash
 curl -X POST "http://localhost:8000/answer" \
      -H "Content-Type: application/json" \
-     -d '{"question": "What is the recommended treatment for type 2 diabetes?"}'
+     -d '{"question": "What are the major symptoms to look out for?"}'
 ```
 
 ## Running Tests
