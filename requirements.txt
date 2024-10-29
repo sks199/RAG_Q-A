@@ -12,3 +12,4 @@ python-multipart
 tqdm
 torch
 sentence-transformers
+gradio
