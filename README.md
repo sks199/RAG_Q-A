@@ -2,6 +2,12 @@
 
 A FastAPI-based service that uses Retrieval-Augmented Generation (RAG) to answer medical questions based on MSD Manual and CBIP data.
 
+I have uploaded the chatbot at huggingface spaces. Here is the link: 
+
+```bash
+https://huggingface.co/spaces/sks199/medical_qa_service1
+```
+
 ## Setup
 
 1. Create a virtual environment:
